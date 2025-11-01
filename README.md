@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Corey — Systems · Security · Low-level Engineering
 
 <p align="center">
@@ -25,37 +22,59 @@
 
 ---
 
-## Core competencies & technologies
+
+
+
+
+## 🧠 Core Technologies & Expertise
 
 > Focus areas — systems, offensive security, infra, and low-level engineering.
 
 <div align="center">
 
-<!-- Language & Tech badges (Shields) -->
+### ⚙️ Systems & Programming Languages
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-![x86 ASM](https://img.shields.io/badge/ASM_x86-4F3A2D?style=for-the-badge)
-![ARM64](https://img.shields.io/badge/ARM64-3DDC84?style=for-the-badge)
-![Exploit Dev](https://img.shields.io/badge/Exploit_Development-DD0031?style=for-the-badge)
-![Malware Reversing](https://img.shields.io/badge/Malware_Reversing-FF6A00?style=for-the-badge)
-![PenTest](https://img.shields.io/badge/Penetration_Testing-0A0A0A?style=for-the-badge&logo=nmap&logoColor=white)
-
-![VMware](https://img.shields.io/badge/VMWare-607078?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge)
-![CISA](https://img.shields.io/badge/CISA-Certified-0033A0?style=for-the-badge)
 
-![UniFi](https://img.shields.io/badge/UniFi-Network-1FB5C4?style=for-the-badge)
-![RMM / Intune](https://img.shields.io/badge/NinjaRMM_Sophos_Intune-8A2BE2?style=for-the-badge)
+---
+
+### 🧩 Low-Level & Architecture
+![ASM x86](https://img.shields.io/badge/ASM_x86-4F3A2D?style=for-the-badge)
+![x86_64](https://img.shields.io/badge/x86__64-4B0082?style=for-the-badge)
+![ARM64](https://img.shields.io/badge/ARM64-3DDC84?style=for-the-badge)
+![AMD64](https://img.shields.io/badge/AMD64-ED1C24?style=for-the-badge)
+![Exploit Development](https://img.shields.io/badge/Exploit_Development-DD0031?style=for-the-badge)
+![Malware Reversing](https://img.shields.io/badge/Malware_Reversing-FF6A00?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-0A0A0A?style=for-the-badge&logo=nmap&logoColor=white)
+
+---
+
+### ☁️ Infrastructure & Virtualization
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![VMware](https://img.shields.io/badge/VMWare-607078?style=for-the-badge)
+![UniFi Network](https://img.shields.io/badge/UniFi_Network-1FB5C4?style=for-the-badge)
+![NinjaRMM](https://img.shields.io/badge/NinjaRMM-800080?style=for-the-badge)
+![Sophos Central](https://img.shields.io/badge/Sophos_Central-00539F?style=for-the-badge)
+![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge)
+![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-004880?style=for-the-badge)
+
+---
+
+### 🧰 Security & Forensics
+![CISA](https://img.shields.io/badge/CISA_Certified-0033A0?style=for-the-badge)
+![Network Analysis](https://img.shields.io/badge/Network_Analysis-2E8B57?style=for-the-badge)
+![Computer Forensics](https://img.shields.io/badge/Computer_Forensics-800000?style=for-the-badge)
+
 </div>
+
 
 ---
 
