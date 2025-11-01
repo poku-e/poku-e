@@ -68,10 +68,14 @@
 
 ---
 
-### 🧰 Security & Forensics
-![CISA](https://img.shields.io/badge/CISA_Certified-0033A0?style=for-the-badge)
+### 🔒 Cybersecurity, Forensics & Government Certification
+![CISA Certified](https://img.shields.io/badge/CISA-Cybersecurity_and_Infrastructure_Security_Agency-003366?style=for-the-badge&logo=security&logoColor=white)
 ![Network Analysis](https://img.shields.io/badge/Network_Analysis-2E8B57?style=for-the-badge)
-![Computer Forensics](https://img.shields.io/badge/Computer_Forensics-800000?style=for-the-badge)
+![Digital Forensics](https://img.shields.io/badge/Computer_Forensics-800000?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident_Response-191970?style=for-the-badge)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-FF0000?style=for-the-badge)
+![Cyber Defense](https://img.shields.io/badge/Cyber_Defense-111111?style=for-the-badge)
+
 
 </div>
 
