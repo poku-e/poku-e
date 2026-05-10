@@ -68,7 +68,7 @@
 ![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-7FD8B6?style=for-the-badge&logo=microsoft&logoColor=0D1F1C)
 ![Entra ID](https://img.shields.io/badge/Entra_ID-BDF2D7?style=for-the-badge&logo=microsoftazure&logoColor=0D1F1C)
 
-### Certifications & Disciplines
+### Agencies, Credentials & Disciplines
 
 ![Cybersecurity and Infrastructure Security Agency](https://img.shields.io/badge/Cybersecurity%20%26%20Infrastructure%20Security%20Agency-9FE6C3?style=for-the-badge&logoColor=0D1F1C)
 ![Network Analysis](https://img.shields.io/badge/Network_Analysis-7FD8B6?style=for-the-badge&logoColor=0D1F1C)
