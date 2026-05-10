@@ -70,7 +70,7 @@
 
 ### Certifications & Disciplines
 
-![CISA Certified](https://img.shields.io/badge/CISA%20Certified-9FE6C3?style=for-the-badge&logoColor=0D1F1C)
+![Cybersecurity and Infrastructure Security Agency](https://img.shields.io/badge/Cybersecurity%20%26%20Infrastructure%20Security%20Agency-9FE6C3?style=for-the-badge&logoColor=0D1F1C)
 ![Network Analysis](https://img.shields.io/badge/Network_Analysis-7FD8B6?style=for-the-badge&logoColor=0D1F1C)
 ![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-BDF2D7?style=for-the-badge&logoColor=0D1F1C)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-A8F0D1?style=for-the-badge&logoColor=0D1F1C)
