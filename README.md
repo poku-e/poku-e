@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Security-9FE6C3?style=for-the-badge&labelColor=163832&color=9FE6C3" alt="Focus: Systems and Security" />
   <img src="https://img.shields.io/badge/Specialty-Low--level%20%26%20RE-BDF2D7?style=for-the-badge&labelColor=163832&color=BDF2D7" alt="Specialty: Low-level and reverse engineering" />
-  <img src="https://img.shields.io/badge/Theme-Modern%20Mint-7FD8B6?style=for-the-badge&labelColor=163832&color=7FD8B6" alt="Modern mint theme" />
+
 </p>
 
 ---
